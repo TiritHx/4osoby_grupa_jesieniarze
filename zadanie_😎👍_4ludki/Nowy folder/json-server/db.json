@@ -1,0 +1,29 @@
+
+{
+  "passwords": [{
+   "id": 1,
+   "pass": "wanna",
+   "crypt": "annawanna"
+   }, {
+   "id": 2,
+   "pass": "kajak",
+   "crypt": "kajak"
+   }, {
+   "id": 3,
+   "pass": "jajco",
+   "crypt": "ocjajco"
+   }, {
+   "id": 4,
+   "pass": "banan",
+   "crypt": "nanabanana"
+   }],
+   "users": [{
+   "id": 1,
+   "name": "Włodzimierz",
+   "surname": "Biały"
+   }, {
+   "id": 2,
+   "name": "Szaweł",
+   "surname": "Dobryczłowiek"
+   }]
+  }
